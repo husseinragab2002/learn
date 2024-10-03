@@ -13,7 +13,7 @@ class Category extends StatelessWidget {
     return GestureDetector(
       onTap: onTapp,
       child: Container(
-        padding: EdgeInsets.only(left: 14),
+        padding: EdgeInsets.only(left: 15),
         alignment: Alignment.centerLeft,
         height: 73,
         width: double.infinity,
