@@ -21,7 +21,7 @@ class Category extends StatelessWidget {
         // Color(0xffF8942F),
         child: Text(
           nameCategory,
-          style: TextStyle(fontSize: 30, color: Colors.white),
+          style: TextStyle(fontSize: 29, color: Colors.white),
         ),
       ),
     );
