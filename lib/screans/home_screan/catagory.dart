@@ -13,9 +13,9 @@ class Category extends StatelessWidget {
     return GestureDetector(
       onTap: onTapp,
       child: Container(
-        padding: EdgeInsets.only(left: 16),
+        padding: EdgeInsets.only(left: 14),
         alignment: Alignment.centerLeft,
-        height: 74,
+        height: 73,
         width: double.infinity,
         color: color,
         // Color(0xffF8942F),
